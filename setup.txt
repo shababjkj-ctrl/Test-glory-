@@ -1,0 +1,129 @@
+╔══════════════════════════════╗
+🚀 Dɢ Dʀɪғᴛ Gʟᴏʀʏ Bᴏᴛ
+⚡ Rᴇᴄᴏᴍᴍᴇɴᴅᴇᴅ Iɴsᴛᴀʟʟ & APIs
+╚══════════════════════════════╝
+
+📦 Rᴇᴄᴏᴍᴍᴇɴᴅᴇᴅ Iɴsᴛᴀʟʟ
+━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+pip install httpx pycryptodome protobuf pyjwt aiohttp flask google-play-scraper protobuf-decoder requests
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━
+🌐 Wᴇʙ Pᴀɢᴇ Eɴᴅᴘᴏɪɴᴛs
+━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+GET  /
+GET  /login
+GET  /signup
+GET  /client
+GET  /bot
+GET  /admin
+GET  /shared.js
+GET  /shared.css
+GET  /login.js
+GET  /sw.js
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━
+🔐 Aᴜᴛʜᴇɴᴛɪᴄᴀᴛɪᴏɴ APIs
+━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+POST /api/auth/signup
+POST /api/auth/login
+POST /api/auth/logout
+POST /api/auth/change-password
+GET  /api/me
+GET  /api/logout
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━
+🎫 Cᴏᴜᴘᴏɴ APIs
+━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+POST /api/coupons/create
+GET  /api/coupons/mine
+POST /api/coupons/redeem
+GET  /api/coupons/redeemed
+POST /api/coupons/cancel
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━
+👑 Aᴅᴍɪɴ APIs
+━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+GET  /api/admin/overview
+GET  /api/admin/users
+
+POST /api/admin/user/create
+POST /api/admin/user/credits
+POST /api/admin/user/role
+POST /api/admin/user/delete
+
+GET  /api/admin/coupons
+POST /api/admin/coupon/create
+POST /api/admin/coupon/revoke
+
+GET  /api/admin/bot-accounts
+POST /api/admin/join-clan
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━
+🎮 Cʟɪᴇɴᴛ APIs
+━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+POST /api/client/launch
+
+GET  /api/client/groups
+GET  /api/client/activity-log
+GET  /api/client/active-alert
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━
+🤖 Bᴏᴛ Cᴏɴᴛʀᴏʟ APIs
+━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+GET  /api/stats
+GET  /api/logs
+
+POST /api/logs/clear
+POST /api/account/add
+POST /api/account/delete
+POST /api/account/refresh
+POST /api/account/restart
+POST /api/account/pause
+POST /api/account/pause_all
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━
+🏰 Cʟᴀɴ & Gᴜɪʟᴅ APIs
+━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+GET  /api/guildinfo
+POST /api/clanjoin
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━
+🔧 Sᴛᴜʙ & Oᴛʜᴇʀ APIs
+━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+GET  /api/pricing
+GET  /api/transactions
+GET  /api/client/groups
+GET  /api/client/activity-log
+GET  /api/inbox/messages
+GET  /api/notifications
+GET  /api/client/active-alert
+GET  /api/vapid-public-key
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━
+⚙️ Sᴇʀᴠᴇʀ Cᴏɴғɪɢ
+━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+WEB_HOST = "0.0.0.0"
+WEB_PORT = 20333
+
+🌐 Lᴏᴄᴀʟ U R L
+http://localhost:20333
+
+🔐 Lᴏɢɪɴ U R L
+http://localhost:20333/login
+
+👑 Aᴅᴍɪɴ U R L
+http://localhost:20333/admin
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━
+🔥 Dɢ Dʀɪғᴛ —
+━━━━━━━━━━━━━━━━━━━━━━━━━━

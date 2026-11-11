@@ -1,0 +1,48 @@
+{
+  "929283937393kdjdjd": {
+    "username": "929283937393kdjdjd",
+    "display_name": "929283937393kdjdjd",
+    "password_hash": "1fa3844d407273d36bd346c66c08b5be$bd01e08d5da80c7abafd3654c1b972cab8bbb6f82847e0cec22cc15a8b50c700",
+    "role": "user",
+    "basic_credits": 0,
+    "premium_credits": 0,
+    "created_at": 1792331556.0763383
+  },
+  "dg_driftxxx": {
+    "username": "dg_driftxxx",
+    "display_name": "dg driftxxx",
+    "password_hash": "a385b91488bcc64c55e070fb15995ced$91af355614d242a0830c3150dcbf97250a5ee334892a4045ef6e086e75a1a520",
+    "role": "user",
+    "basic_credits": 0,
+    "premium_credits": 0,
+    "created_at": 1792374432.0368037
+  },
+  "aryan": {
+    "username": "aryan",
+    "display_name": "aryan",
+    "password_hash": "4eab4b329fbf5b796f5fcedcd503177d$86d445964e34727b1434bf1128e01fd01e284cb3e77d01871bdcdb8ff15c3dbe",
+    "role": "admin",
+    "basic_credits": 499999995,
+    "premium_credits": 499999996,
+    "created_at": 1792863176.491267
+  },
+  "aryap": {
+    "username": "aryap",
+    "display_name": "aryap",
+    "password_hash": "d7a982d7a46804ae772db29581d2612f$e22a072dd6a117e5571073d52cb5e107410e50ae366359a698576cb0c94a2e8c",
+    "role": "user",
+    "basic_credits": 0,
+    "premium_credits": 0,
+    "created_at": 1792875538.9845102
+  },
+  "dg_drift": {
+    "username": "dg_drift",
+    "display_name": "E\u029f\u026a\u1d1b\u1d07 A\u0280\u1d07\u0274\u1d00",
+    "password_hash": "67a74edb310ceab3a7ce0baa58884b17$0b097104e582e145465a69d656a61c56ff6ba6d58efe570ee60d22e209c29a93",
+    "role": "admin",
+    "basic_credits": 1000,
+    "premium_credits": 100,
+    "created_at": 1793720609.6257067,
+    "seeded": true
+  }
+}
